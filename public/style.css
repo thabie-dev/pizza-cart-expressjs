@@ -185,8 +185,9 @@ body::-webkit-scrollbar {
     border-radius: 25px;   
   }
 
-.hidden {
+.show {
     display: none;
+    
 }
 .center{
     display: block;
